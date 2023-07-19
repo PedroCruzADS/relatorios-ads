@@ -1,6 +1,6 @@
 # Relatório - Análise e Estudo Demográfico de Idades e Gêneros - Meta Ads
 
-Este relatório apresenta uma análise demográfica detalhada sobre os anúncios realizados nas plataformas Meta Ads pela OSCAR, com foco nas diferentes faixas etárias e gêneros do público-alvo. O objetivo é extrair insights significativos dos dados fornecidos a fim de otimizar futuras estratégias e o desempenho das campanhas.
+Este relatório apresenta uma análise demográfica detalhada sobre os anúncios realizados nas plataformas Meta Ads pela OSCAR nos primeiros 6 meses de 2023 (01/01/2023 até 30/06/2023), com foco nas diferentes faixas etárias e gêneros do público-alvo. O objetivo é extrair insights significativos dos dados fornecidos a fim de otimizar futuras estratégias e o desempenho das campanhas.
 
 ## Análise dos Dados
 
