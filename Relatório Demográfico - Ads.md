@@ -50,9 +50,13 @@ Proporcionalmente, os resultados nas segmentações etárias acima de 45 anos es
 Com base nos dados e insights obtidos, a persona atual da OSCAR que engaja com os anúncios pode ser descrita da seguinte forma:
 
 **Nome**: Ana
+
 **Idade**: 32 anos
+
 **Gênero**: Feminino
+
 **Profissão**: Gerente de marketing em uma empresa de médio porte
+
 **Características Demográficas**: Encontra-se na faixa etária de 25 a 34 anos e identifica-se como mulher.
 
 **Comportamento do consumidor**:
@@ -84,9 +88,13 @@ Sentir-se confiante e satisfeita ao adquirir novos calçados.
 Após analisar os dados e insights obtidos, podemos criar uma persona objetivo que represente o público que tem margem para ser otimizado, a fim de orientar estratégias futuras. Essa persona é baseada no público masculino, com idade entre 25 e 34 anos, que demonstrou maior propensão a converter após interagir com os anúncios da OSCAR. A persona objetivo é a seguinte:
 
 **Nome**: Lucas
+
 **Idade**: 28 anos
+
 **Gênero**: Masculino
+
 **Profissão**: Analista de Tecnologia da Informação
+
 **Características Demográficas**: Encontra-se na faixa etária de 25 a 34 anos e identifica-se como homem.
 
 ### **Comportamento do Consumidor**:
