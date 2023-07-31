@@ -1,4 +1,4 @@
-# Relatório de Desempenho de Anúncios - Principais Métricas por Estado
+# Relatório de Desempenho de Anúncios - Principais Métricas por Estado - OSCAR
 
 A seguir, apresentamos um relatório com as principais métricas de desempenho de anúncios por estado. Os dados abaixo representam informações relevantes obtidas do Google Analytics, com foco nas métricas de campanhas (Google/Meta).
 
