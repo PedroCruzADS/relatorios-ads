@@ -1,5 +1,3 @@
-Entendido! Sabendo que esses dados são provenientes do Google Analytics, é possível realizar uma análise mais precisa das métricas apresentadas. Devido ao contexto, podemos identificar algumas métricas e indicadores específicos utilizados em campanhas de marketing digital. Vamos fazer algumas correções no relatório para refletir essa análise:
-
 # Relatório de Desempenho de Anúncios - Principais Métricas por Estado
 
 A seguir, apresentamos um relatório com as principais métricas de desempenho de anúncios por estado. Os dados abaixo representam informações relevantes obtidas do Google Analytics, com foco nas métricas de campanhas (Google/Meta).
