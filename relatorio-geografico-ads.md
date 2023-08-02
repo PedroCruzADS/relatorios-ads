@@ -32,3 +32,10 @@ São Paulo lidera em número de conversões, com 2.980, e também em receita tot
 ## Conclusão
 
 Com base nos dados fornecidos pelo Google Analytics, observamos que as campanhas de anúncios em São Paulo têm sido altamente eficazes, com alto engajamento, muitas conversões e receita significativa gerada. Além disso, outros estados como Minas Gerais e Santa Catarina também apresentam resultados positivos, com taxas de engajamento e tempos médios de interação favoráveis.
+
+## Mapa de calor atualmente - 2023 - Principais praças
+
+![image](https://github.com/PedroCruzADS/relatorios-ads/assets/56441411/86684d8e-98f9-49eb-9d7b-38c6c0c0f8c7)
+
+
+
